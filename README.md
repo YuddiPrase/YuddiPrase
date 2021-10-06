@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Yuddi Prasetyo 
-- I'm Chief Executive Officer at CarakaTeam
+# 👋 Hi! I'm Yuddi Prasetyo
+
+- I'm Frontend Developer and Co-Founder at CarakaTeam
 - 👀 I’m interested in IoT (Internet of Things)
 - 🌱 I’m currently learning Javascript Framework
 - 💞️ I’m looking to collaborate on Tech Communities
